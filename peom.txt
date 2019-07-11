@@ -1,3 +1,4 @@
+white
 Blue
 Green 
 Red 
@@ -6,4 +7,4 @@ yellow
 Green
 Purple
 unicorn
-Rainbow in the sky with unicorn
+Rainbow in the sky with unicorn and the white color
